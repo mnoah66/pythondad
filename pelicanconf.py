@@ -33,7 +33,7 @@ MENUITEMS = (
     ('About', '/pages/about.html')
     )
 
-GOOGLE_ANALYTICS = 'UA-118671154-1'
+GOOGLE_ANALYTICS = ''
 
 STATIC_PATHS = ['images']
 
